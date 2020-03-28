@@ -1,4 +1,4 @@
-# Reading
+# Reading 1
 ## Article: Shay Howe’s intro to RWD
 
 - What is the differnce between Responsive, Adaptive and Mobile design?
