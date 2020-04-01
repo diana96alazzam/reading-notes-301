@@ -2,7 +2,7 @@
 
 ### CSS Grid Garden
 I have gone through the whole tutorial.
-![Image of The end of tutorial](https://ibb.co/SXL3cKC)
+![Image of The end of tutorial](https://i.ibb.co/yn3Qp8j/grid.png)
 
 # Bookmark/Skim
 
