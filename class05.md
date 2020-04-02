@@ -1,10 +1,10 @@
 # I have followed the steps of installing Heroku: 
  - The setting up.
  - The preparation of the app.
- !(https://i.ibb.co/Qcks1TL/step1.png)
+ ![Step1](https://i.ibb.co/Qcks1TL/step1.png)
  - The app deployment.
  - Viewing the logs.
- !(https://i.ibb.co/8B2QcJL/step2.png)
+ ![Step2](https://i.ibb.co/8B2QcJL/step2.png)
 
  - Learning about Procfile.
  - Scaling the app to  then back to .
